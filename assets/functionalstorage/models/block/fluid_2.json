@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "functionalstorage:blocks/fluid_front_2",
-		"4": "functionalstorage:blocks/fluid_inner",
-		"5": "functionalstorage:blocks/fluid_side",
-		"6": "functionalstorage:blocks/fluid_top",
-		"particle": "functionalstorage:blocks/fluid_side",
-		"lock_icon": "functionalstorage:blocks/unlock"
+		"3": "functionalstorage:block/fluid_front_2",
+		"4": "functionalstorage:block/fluid_inner",
+		"5": "functionalstorage:block/fluid_side",
+		"6": "functionalstorage:block/fluid_top",
+		"particle": "functionalstorage:block/fluid_side",
+		"lock_icon": "functionalstorage:block/unlock"
 	},
 	"elements": [
 		{
